@@ -89,7 +89,7 @@ for($i = 0; $i < count($array8); $i++){
             $array8[$j] = $array8[$j + 1];
             $array8[$j + 1] = $temp;
 
-        }git init
+        }
     }
 }
 print_r($array8);
